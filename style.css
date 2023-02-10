@@ -16,7 +16,7 @@ body{
 
 .topic {
     text-align: center;
-    text-decoration: underline;
+    font-weight: 100;
     text-transform: capitalize;
     color: #f1eeee
     ;
@@ -24,20 +24,21 @@ body{
 
 .label{
     font-size: 20px;
+    text-align: left; 
     font-weight:900;
     width: 100px;
-    border : 2px solid green;
-    padding: 0px;
+    border : 1px solid rgb(0, 0, 0);
+    padding: 3px;
     margin: 30px;
     border-radius: 3px;
-}
+} 
 .fff{
     width: 100%;
     line-height: 20px   ;
-    background-color: darkgray;
-    
+    background-color: rgb(201, 201, 201);
+    border: 1px solid black;
     margin-bottom: 15px;
-    border-radius: 3px;
+    border-radius: 1px;
     margin-top: 15px;
 }
 
