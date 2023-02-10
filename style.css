@@ -1,0 +1,70 @@
+body{
+    background-color:cadetblue ;
+}
+
+
+.contact-form{ 
+    border: 1px solid rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px;
+    background-color: #f1eeee;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-radius: 3px;
+    margin-bottom: 150px;
+}
+
+.topic {
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    color: #f1eeee
+    ;
+}
+
+.label{
+    font-size: 20px;
+    font-weight:900;
+    width: 100px;
+    border : 2px solid green;
+    padding: 0px;
+    margin: 30px;
+    border-radius: 3px;
+}
+.fff{
+    width: 100%;
+    line-height: 20px   ;
+    background-color: darkgray;
+    
+    margin-bottom: 15px;
+    border-radius: 3px;
+    margin-top: 15px;
+}
+
+
+button{
+    font-size: 23px;
+    background-color: rgb(0, 255, 76);
+    text-transform: capitalize;
+    line-height: 45px;
+    border: 2px solid black;
+    border-radius: 3px;
+    width: 100%;
+    
+}
+
+.footerp{
+    text-align: center;
+    font-size: 10px;
+    font-weight: 100;
+    font-family:'Times New Roman', Times, serif;
+    text-transform: capitalize;
+
+}
+.thankyou1  {
+    font-size: 102px;
+    text-align: center;
+    color: brown;
+    text-transform: uppercase;
+    text-shadow: 2px;
+}
